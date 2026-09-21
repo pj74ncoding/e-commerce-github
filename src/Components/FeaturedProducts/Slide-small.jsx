@@ -31,7 +31,7 @@ export const SlideSmallScreens = ({ productList }) => {
           <img
             className="slide-small-screen-image"
             src={smallScreenProductList[index].image}
-            alt="A blue cotton polo shirt with a white collar"
+            alt=""
           />
         </div>
         <div className="description">
