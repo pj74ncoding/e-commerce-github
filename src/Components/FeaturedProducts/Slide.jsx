@@ -11,7 +11,7 @@ export const Slide = ({ productList }) => {
           <div className="image-container">
             <img
               src={item.image}
-              alt="A blue cotton polo shirt with a white collar"
+              alt=""
             />
           </div>
           <div className="description">
