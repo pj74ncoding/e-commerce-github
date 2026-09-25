@@ -1,16 +1,210 @@
-# React + Vite
+# vellum-js-portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Using a wireframe build an e-commerce site Home page with responsiveness to fit different screen sizes.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Live Demo: https://e-commerce-github-khaki.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Table of Contents
 
-## Expanding the ESLint configuration
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [Installation](#installation)
+- [Project Features](#usage)
+- [Screenshots](#screenshots)
+- [Deployment](#deployment)
+- [Future Improvements](#future-improvements)
+- [Credits](#credits)
+- [License](#license)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Overview
+
+### Motivation
+Why did you build this project?
+
+### Objective
+What problem does this application solve?
+
+### Learning Outcomes
+- I learnt how to implement CSS, JavaScript and React to create a responsive user interactive moving scrollbar. 
+- I learnt how to implement CSS animation hover effects on the social links in the footer.
+
+
+## Project Features
+
+- Fully responsive design
+
+- Hamburger menu for mobiles. hamburger menu is hidden than slides into view from the left when the hamburger icon is clicked.
+
+- Created a sideways scrollbar to allow the user to scroll left or right to view the featured products. This had to be altered on different screen sizes as the smaller the screen the less products are visible.
+
+- Implemented CSS to add hover effects.
+---
+
+## Tech Stack
+
+### Frontend
+- React
+- JavaScript
+- HTML5
+- CSS3 
+
+
+
+
+### Tools
+- Git & GitHub
+- VS Code
+
+
+
+
+## Architecture
+1.
+
+Client (Frontend)  
+  
+
+ 
+
+
+Folder Structure Example:
+
+```
+
+2. 
+
+client/
+|
++---public
+|   \---images
+|                   
+\---src
+    |   
+    +---assets
+    |   \---images
+    |                  
+    +---Components
+    |   +---Categories
+    |   |          
+    |   +---FeaturedProducts
+    |   |         
+    |   +---Footer
+    |   |         
+    |   +---Hero
+    |   |        
+    |   +---Navbar
+    |   |         
+    |   \---pages
+    |                    
+    +---data
+    |           
+    +---fonts-e-commerce
+    |        
+    \---images
+         
+            
+
+
+```
+
+---
+
+## Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/pj74ncoding/e-commerce-github.git
+cd e-commerce-github
+```
+
+### Install Dependencies
+
+Frontend:
+
+```bash
+cd e-commerce-github
+npm install
+```
+
+
+### Run Development Servers
+
+
+Frontend:
+
+```bash
+npm start
+```
+
+---
+
+
+---
+
+## Screenshots
+
+```
++---public
+|   \---images
+|           accessories.jpg
+|           belt.jpg
+|           colouredcottonspiral.jpg
+|           cottoncolours.jpg
+|           jumper-one-SilverFox74.jpg
+|           lounge.jpg
+|           men.jpg
+|           mens-bottoms.jpg
+|           mens-coat.jpg
+|           mens-polo-one.jpg
+|           mens-polo-two.jpg
+|           mens-shirt.jpg
+|           rustic.jpg
+|           shirt.png
+|           top.jpg
+|           tshirt.jpg
+|           women-jumper-one.jpg
+|           women.jpg
+|           womens-coat.jpg
+|           womens-jumper-three.jpg
+|           womens-jumper-two.jpg
+|           womens-polo-one.jpg
+|  
+
+```
+
+Add inside README:
+
+```markdown
+![Home Page](assets/home.png)
+![Dashboard](assets/dashboard.png)
+```
+
+---
+
+## Future Improvements
+
+- Add a shopping cart
+- Add a page and a link for each product
+
+---
+
+## Credits
+
+Developer: Peter Newman 
+GitHub: https://github.com/pj74ncoding  
+
+
+
+---
+
+## License
+
+This project is licensed under the MIT License.
