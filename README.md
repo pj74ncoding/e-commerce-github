@@ -1,6 +1,6 @@
 # vellum-js-portfolio
 
-Using a wireframe build an e-commerce site Home page with responsiveness to fit different screen sizes.
+Using a wireframe built an e-commerce site Home page with responsiveness to fit different screen sizes.
 
 
 Live Demo: https://e-commerce-github-khaki.vercel.app/
