@@ -32,6 +32,7 @@ Why did you build this project?
 What problem does this application solve?
 
 ### Learning Outcomes
+- I Learnt how to use the index of an array to change an image to be displayed
 - I learnt how to implement CSS, JavaScript and React to create a responsive user interactive moving scrollbar. 
 - I learnt how to implement CSS animation hover effects on the social links in the footer.
 
