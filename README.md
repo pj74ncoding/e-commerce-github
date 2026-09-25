@@ -1,4 +1,5 @@
-# vellum-js-portfolio
+# e-commerce-github
+
 
 Using a wireframe built an e-commerce site Home page with responsiveness to fit different screen sizes.
 
