@@ -36,6 +36,7 @@ I wanted to build an e-commerce site to improve my react skills and application 
 - I learnt how to implement CSS animation hover effects on the social links in the footer.
 - I learnt better folder structuring. Always have an index.jsx file in each component folder.
 - I learnt to build the applications design to fit mobile screens first,  then working upwards to bigger screen sizes
+- I learnt that media queries can include max-height as well as max-width properties
 
 
 ## Project Features
