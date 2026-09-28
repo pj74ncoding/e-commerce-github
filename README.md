@@ -36,7 +36,8 @@ What problem does this application solve?
 - I Learnt how to use the index of an array to change an image to be displayed
 - I learnt how to implement CSS, JavaScript and React to create a responsive user interactive moving scrollbar. 
 - I learnt how to implement CSS animation hover effects on the social links in the footer.
-- I learnt better folder structuring. Always have an index.jsx file in each component folder. 
+- I learnt better folder structuring. Always have an index.jsx file in each component folder.
+- I learnt to build the applications design to fit mobile screens first,  then working upwards to bigger screen sizes
 
 
 ## Project Features
