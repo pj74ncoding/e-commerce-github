@@ -27,10 +27,8 @@ Live Demo: https://e-commerce-github-khaki.vercel.app/
 ## Overview
 
 ### Motivation
-Why did you build this project?
+I wanted to build an e-commerce site to improve my react skills and application responsiveness, building up from small screen sizes
 
-### Objective
-What problem does this application solve?
 
 ### Learning Outcomes
 - I Learnt how to use the index of an array to change an image to be displayed
