@@ -1,7 +1,7 @@
 # e-commerce-github
 
 
-Using a wireframe built an e-commerce site Home page with responsiveness to fit different screen sizes.
+clothing e-commerce site Home page with responsiveness to fit different screen sizes.
 
 
 Live Demo: https://e-commerce-github-khaki.vercel.app/
@@ -27,8 +27,10 @@ Live Demo: https://e-commerce-github-khaki.vercel.app/
 ## Overview
 
 ### Motivation
-I wanted to build an e-commerce site to improve my react skills and application responsiveness, building up from small screen sizes
 
+- Personal project
+  
+I wanted to build an e-commerce site to improve my react skills and application responsiveness, building up from small screen sizes
 
 ### Learning Outcomes
 - I Learnt how to use the index of an array to change an image to be displayed
@@ -42,12 +44,10 @@ I wanted to build an e-commerce site to improve my react skills and application 
 ## Project Features
 
 - Fully responsive design
-
 - Hamburger menu for mobiles. hamburger menu is hidden than slides into view from the left when the hamburger icon is clicked.
-
 - Created a sideways scrollbar to allow the user to scroll left or right to view the featured products. This had to be altered on different screen sizes as the smaller the screen the less products are visible.
-
 - Implemented CSS to add hover effects.
+  
 ---
 
 ## Tech Stack
@@ -58,25 +58,15 @@ I wanted to build an e-commerce site to improve my react skills and application 
 - HTML5
 - CSS3 
 
-
-
-
 ### Tools
 - Git & GitHub
 - VS Code
-
-
-
 
 ## Architecture
 1.
 
 Client (Frontend)  
   
-
- 
-
-
 Folder Structure Example:
 
 ```
@@ -112,9 +102,6 @@ client/
     |        
     \---images
          
-            
-
-
 ```
 
 ---
@@ -137,20 +124,13 @@ cd e-commerce-github
 npm install
 ```
 
-
 ### Run Development Servers
-
 
 Frontend:
 
 ```bash
 npm start
 ```
-
----
-
-
----
 
 ## Screenshots
 
@@ -203,8 +183,6 @@ Add inside README:
 
 Developer: Peter Newman 
 GitHub: https://github.com/pj74ncoding  
-
-
 
 ---
 
