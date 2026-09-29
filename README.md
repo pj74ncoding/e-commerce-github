@@ -1,7 +1,7 @@
 # e-commerce-github
 
 
-clothing e-commerce site Home page with responsiveness to fit different screen sizes.
+A clothing e-commerce site Home page with responsiveness to fit different screen sizes.
 
 
 Live Demo: https://e-commerce-github-khaki.vercel.app/
