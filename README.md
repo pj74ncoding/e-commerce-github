@@ -16,7 +16,6 @@ Live Demo: https://e-commerce-github-khaki.vercel.app/
 - [Architecture](#architecture)
 - [Installation](#installation)
 - [Project Features](#usage)
-- [Screenshots](#screenshots)
 - [Deployment](#deployment)
 - [Future Improvements](#future-improvements)
 - [Credits](#credits)
@@ -45,7 +44,7 @@ I wanted to build an e-commerce site to improve my react skills and application 
 
 - Fully responsive design
 - Hamburger menu for mobiles. hamburger menu is hidden than slides into view from the left when the hamburger icon is clicked.
-- Created a sideways scrollbar to allow the user to scroll left or right to view the featured products. This had to be altered on different screen sizes as the smaller the screen the less products are visible.
+- Created a sideways scrollbar to allow the user to scroll left or right to view the featured products. This had to be altered on different     screen sizes as the smaller the screen the less products are visible.
 - Implemented CSS to add hover effects.
   
 ---
@@ -53,10 +52,11 @@ I wanted to build an e-commerce site to improve my react skills and application 
 ## Tech Stack
 
 ### Frontend
-- React
-- JavaScript
+
 - HTML5
-- CSS3 
+- CSS3
+- JavaScript
+- React
 
 ### Tools
 - Git & GitHub
@@ -120,11 +120,10 @@ cd e-commerce-github
 Frontend:
 
 ```bash
-cd e-commerce-github
 npm install
 ```
 
-### Run Development Servers
+### Run Application
 
 Frontend:
 
@@ -132,7 +131,7 @@ Frontend:
 npm start
 ```
 
-## Screenshots
+## Preview
 
 ```
 +---public
@@ -162,14 +161,6 @@ npm start
 |  
 
 ```
-
-Add inside README:
-
-```markdown
-![Home Page](assets/home.png)
-![Dashboard](assets/dashboard.png)
-```
-
 ---
 
 ## Future Improvements
