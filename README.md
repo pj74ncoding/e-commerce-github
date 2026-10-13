@@ -44,7 +44,7 @@ I wanted to build an e-commerce site to improve my react skills and application 
 
 - Fully responsive design
 - Hamburger menu for mobile screen sizes, the hamburger menu is hidden, than slides into view from the left when the hamburger icon is          clicked on.
-- Created a horizontal scrollbar to allow the user to scroll left or right to view the featured products. This had to be altered on different   screen sizes as the smaller the screen the less products are visible.
+- Created a horizontal scrollbar to allow the user to scroll left or right to view all the featured products. This had to be altered on         different screen sizes, as the smaller the screen the less products are visible.
 - Implemented CSS to add hover effects.
   
 ---
