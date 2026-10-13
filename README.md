@@ -32,12 +32,12 @@ Live Demo: https://e-commerce-github-khaki.vercel.app/
 I wanted to build an e-commerce site to improve my react skills and application responsiveness, building up from small screen sizes
 
 ### Learning Outcomes
-- I learnt how to use the index of an array to change an image to be displayed
-- I learnt how to implement CSS, JavaScript and React to create a responsive user interactive moving scrollbar. 
-- I learnt how to implement CSS animation hover effects on the social links in the footer.
-- I learnt better folder structuring. Always have an index.jsx file in each component folder.
-- I learnt to build the applications design to fit mobile screens first,  then working upwards to bigger screen sizes
-- I learnt that media queries can include max-height as well as max-width properties
+- Learnt how to use the index of an array to change an image to be displayed
+- Learnt how to implement CSS, JavaScript and React to create a responsive user interactive moving scrollbar. 
+- Learnt how to implement CSS animation hover effects on the social links in the footer.
+- Learnt better folder structuring. Always have an index.jsx file in each component folder.
+- Learnt to build the applications design to fit mobile screens first,  then working upwards to bigger screen sizes
+- Learnt that media queries can include max-height as well as max-width properties
 
 
 ## Project Features
